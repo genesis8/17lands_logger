@@ -130,3 +130,5 @@ dmypy.json
 
 # MyList
 deck_txt/
+deck_img/
+test.py
