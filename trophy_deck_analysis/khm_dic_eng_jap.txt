@@ -1,0 +1,321 @@
+くすねる鷹/Pilfering Hawk
+アクスガルドの武器庫/Axgard Armory
+アクスガルドの自慢屋/Axgard Braggart
+アクスガルドの騎兵/Axgard Cavalry
+アルダガルドのスピリット/Spirit of the Aldergard
+アーニ、トロールを制す/Arni Slays the Troll
+アールンドの天啓/Alrund's Epiphany
+イストフェルの門/Gates of Istfell
+イマースタームの捕食者/Immersturm Predator
+イマースタームの略奪者/Immersturm Raider
+イマースタームの髑髏塚/Immersturm Skullcairn
+エシカの戦車/Esika's Chariot
+エルフの伏兵/Elven Ambush
+エルフの弓/Elven Bow
+エルフの戦練者/Elvish Warmaster
+カルダールの悪しき復活/Kardur's Vicious Return
+カーフェルの先触れ/Karfell Harbinger
+カーフェルの港/Port of Karfell
+カーフェルの犬舎主/Karfell Kennel-Master
+クラリオンのスピリット/Clarion Spirit
+ケイヤの猛攻/Kaya's Onslaught
+コーマの信者/Koma's Faithful
+サルーフの群友/Sarulf's Packmate
+シュタルンハイムの大聖堂/Great Hall of Starnheim
+シュタルンハイムの解放/Starnheim Unleashed
+シュタルンハイムの野心家/Starnheim Aspirant
+シュタルンハイムの駿馬/Starnheim Courser
+スカルドの決戦/Showdown of the Skalds
+スケムファーのための闘争/Struggle for Skemfar
+スケムファーの古の間/Skemfar Elderhall
+スケムファーの報復者/Skemfar Avenger
+スケムファーの影賢者/Skemfar Shadowsage
+スケムファーの王、ヘラルド/Harald, King of Skemfar
+セルトランドの凍炎/Surtland Frostpyre
+セルトランドの投げ飛ばし屋/Surtland Flinger
+セルトランドの精霊術師/Surtland Elementalist
+タイライトの聖域/Tyrite Sanctum
+タイライト剣の鍛錬/Forging the Tyrite Sword
+タイヴァー・ケル/Tyvar Kell
+タスケーリの火歩き/Tuskeri Firewalker
+ターグリッドのランタン/Tergrid's Lantern
+ターグリッドの影/Tergrid's Shadow
+ツンドラの噴気孔/Tundra Fumarole
+ティボルトの計略/Tibalt's Trickery
+トラルフの鎚/Toralf's Hammer
+トロールの喚起/Waking the Trolls
+トロールへの挑発/Provoke the Trolls
+ドゥームスカージ、カルダール/Kardur, Doomscourge
+ドゥームスカール/Doomskar
+ドゥームスカールのタイタン/Doomskar Titan
+ドゥームスカールの神託者/Doomskar Oracle
+ドローガーの兜/Draugr's Helm
+ドローガーの再生/Raise the Draugr
+ドローガーの屍術師/Draugr Necromancer
+ドローガーの徴募兵/Draugr Recruiter
+ドローガーの思考盗み/Draugr Thought-Thief
+ドワーフの援軍/Dwarven Reinforcements
+ドワーフの鎚/Dwarven Hammer
+ナーフィ王の裏切り/King Narfi's Betrayal
+ニコ、運命に抗う/Niko Defies Destiny
+ニコ・アリス/Niko Aris
+ノットヴォルドのイトグモ/Gnottvold Recluse
+ノットヴォルドの眠り塚/Gnottvold Slumbermound
+ハギの群れ/Hagi Mob
+ファーヤの報復/Firja's Retribution
+ブレタガルドの守護者、メイヤ/Maja, Bretagard Protector
+ブレタガルドの要塞/Bretagard Stronghold
+ブレタガルドをかけた戦い/Battle for Bretagard
+ヘラルド、エルフを統一する/Harald Unites the Elves
+ヘラルド王の復讐/King Harald's Revenge
+ベスキールの盾仲間/Beskir Shieldmate
+マンモス化/Mammoth Growth
+マーンの戦慄の隆盛/Rise of the Dread Marn
+ヤスペラの歩哨/Jaspera Sentinel
+リトヤラの反射/Reflections of Littjara
+リトヤラの同族探し/Littjara Kinseekers
+リトヤラの林守り/Littjara Glade-Warden
+リトヤラの熊々/The Bears of Littjara
+リトヤラの鏡湖/Littjara Mirrorlake
+リトヤラの霧/Mists of Littjara
+リングハルトの紋/The Ringhart Crest
+ルーンの冠/Runed Crown
+ルーン目のインガ/Inga Rune-Eyes
+ルーン鍛えの勇者/Runeforge Champion
+万物の姿、オルヴァール/Orvar, the All-Form
+三つの季節/The Three Seasons
+不詳の安息地/Faceless Haven
+世界樹/The World Tree
+世界樹への道/Path to the World Tree
+乗り上げ/Run Ashore
+二重の一撃/Dual Strike
+仮面の蛮人/Masked Vandal
+仮面林の結節点/Maskwood Nexus
+偉大なる存在の探索/In Search of Greatness
+傑士の武勇/Valor of the Worthy
+傑士の神、レーデイン/Reidane, God of the Worthy
+傑士の隆盛/Ascent of the Worthy
+傷頭のアーニ/Arni Brokenbrow
+兵員の結集/Rally the Ranks
+冠雪の山/Snow-Covered Mountain
+冠雪の島/Snow-Covered Island
+冠雪の平地/Snow-Covered Plains
+冠雪の森/Snow-Covered Forest
+冠雪の沼/Snow-Covered Swamp
+冥府のペット/Infernal Pet
+冬の神、ヨーン/Jorn, God of Winter
+冬を彫る者/Sculptor of Winter
+凍炎の秘儀術師/Frostpyre Arcanist
+北方の先導/Boreal Outrider
+占い鴉/Augury Raven
+厄害のルーン/Rune of Mortality
+厚顔の無法者、マグダ/Magda, Brazen Outlaw
+古き神々への拘束/Binding the Old Gods
+古牙の信奉者/Elderfang Disciple
+古牙の儀式者/Elderfang Ritualist
+古葉の導師/Elderleaf Mentor
+吹雪の乱闘/Blizzard Brawl
+嘘の神、ヴァルキー/Valki, God of Lies
+嘲笑の人形/Scorn Effigy
+囁く鴉、ハーカ/Hakka, Whispering Raven
+圧死/Squash
+地平の探求者/Horizon Seeker
+堕ちたる者の案内者/Usher of the Fallen
+壊れた翼/Broken Wings
+多元宇宙の警告/Behold the Multiverse
+夢貪り/Dream Devourer
+大当たり/Smashing Success
+大蛇の餌/Feed the Serpent
+守護者の盾、ヴァルクミラ/Valkmira, Protector's Shield
+完全武装/Armed and Armored
+山/Mountain
+島/Island
+巧みな軍略/Strategic Planning
+巨人たちの侵略/Invasion of the Giants
+巨人の掌握/Giant's Grasp
+巨人の護符/Giant's Amulet
+巨大な鋤/Colossal Plow
+巨大雄牛/Giant Ox
+巨怪な略奪者、ヴォリンクレックス/Vorinclex, Monstrous Raider
+平地/Plains
+弱者粉砕/Crush the Weak
+強力のルーン/Rune of Might
+彫像の伝承/Graven Lore
+復讐に燃えた死神/Vengeful Reaper
+怒りの神、トラルフ/Toralf, God of Fury
+怪物縛り/Bind the Monster
+恐れなき仔/Fearless Pup
+恐れなき解放者/Fearless Liberator
+恐怖の神、ターグリッド/Tergrid, God of Fright
+悪戯の神の強奪/The Trickster-God's Heist
+悪魔の稲妻/Demon Bolt
+悪魔の贈り物/Demonic Gifts
+情け無用のケイヤ/Kaya the Inexorable
+憑依の航海/Haunting Voyage
+戦乙女の先触れ/Valkyrie Harbinger
+戦乙女の剣/Valkyrie's Sword
+戦乙女の猛威/Rampage of the Valkyries
+戦利品奪取/Seize the Spoils
+戦場の猛禽/Battlefield Raptor
+戦慄の乗り手/Dread Rider
+戦角笛の一吹き/Warhorn Blast
+戦詠みのスカルド/Warchanter Skald
+戦闘の神、ハルヴァール/Halvar, God of Battle
+戦闘マンモス/Battle Mammoth
+拷問者の兜/Tormentor's Helm
+持続のルーン/Rune of Sustenance
+掟綴りの僧侶/Codespell Cleric
+揺れ招き/Quakebringer
+撲滅する戦乙女/Eradicator Valkyrie
+星界の大蛇、コーマ/Koma, Cosmos Serpent
+星界の番人/Shepherd of the Cosmos
+星界の瞥見/Glimpse the Cosmos
+星界の神、アールンド/Alrund, God of the Cosmos
+星界の翼/Wings of the Cosmos
+星界の軍馬/Cosmos Charger
+星界の霊薬/Cosmos Elixir
+星界の騙し屋、ティボルト/Tibalt, Cosmic Impostor
+村の儀式/Village Rites
+杯に毒/Poison the Cup
+林歩きの儀式者/Gladewalker Ritualist
+枯れ冠/Withercrown
+栄光の守護者/Glorious Protector
+栄光の探索/Search for Glory
+根気強い探求/Dogged Pursuit
+根無しのイチイ/Rootless Yew
+梢の戦術家/Canopy Tactician
+棄てられた地の伯爵/Jarl of the Forsaken
+森/Forest
+森林の地割れ/Woodland Chasm
+極北の並木/Arctic Treeline
+樹の神、エシカ/Esika, God of the Tree
+樹皮路の小道/Barkchannel Pathway
+正義の戦乙女/Righteous Valkyrie
+武勇の審判者、ファーヤ/Firja, Judge of Valor
+死の玉座/Throne of Death
+死の神、イーガン/Egon, God of Death
+死の鐘音の狂戦士/Deathknell Berserker
+死霊堤の司祭/Priest of the Haunted Edge
+残忍なドローガー/Grim Draugr
+氷のトンネル/Ice Tunnel
+氷刻み、スヴェラ/Svella, Ice Shaper
+氷山の徘徊者/Berg Strider
+氷河の氾濫原/Glacial Floodplain
+氷皮のトロール/Icehide Troll
+氷砕きのクラーケン/Icebreaker Kraken
+氷結する火炎、エーガー/Aegar, the Freezing Flame
+氷縛りの柱/Icebind Pillar
+沈下/Weigh Down
+沼/Swamp
+活力回復/Revitalize
+浜墓荒らし/Brinebarrow Intruder
+海中の侵略者/Undersea Invader
+潮による復活/Return Upon the Tide
+潮水路の小道/Tidechannel Pathway
+激しい恐怖/Crippling Fear
+灰毛の先導/Grizzled Outrider
+灼熱踏みの小道/Searstep Pathway
+災厄を携える者/Calamity Bearer
+炎巨人の憤怒/Fire Giant's Fury
+無効/Annul
+無謀な船員/Reckless Crew
+煌積の谷間/Shimmerdrift Vale
+煙霧歩き/Mistwalker
+熱狂した略奪者/Frenzied Raider
+燃えルーンの悪魔/Burning-Rune Demon
+燃え心臓の巨人/Cinderheart Giant
+牙持ち、フィン/Fynn, the Fangbearer
+物語の探究者/Story Seeker
+猛り狂い/Run Amok
+玄室荒らし/Vault Robber
+玄武岩の荒廃者/Basalt Ravager
+略奪者のカルフ/Raiders' Karve
+盾打ちの戦士/Battershield Warrior
+知識の根/Roots of Wisdom
+硫黄のぬかるみ/Sulfurous Mire
+確固たる戦乙女/Stalwart Valkyrie
+神に愛された者、シグリッド/Sigrid, God-Favored
+神の間の守護獣/Gods' Hall Guardian
+神秘の反射/Mystic Reflection
+神聖なる計略/Divine Gambit
+神聖の発動/Invoke the Divine
+秘密を知るもの、トスキ/Toski, Bearer of Secrets
+移り変わるフィヨルド/Volatile Fjord
+種族の神、コルヴォーリ/Kolvori, God of Kinship
+竜巻の召喚士/Cyclone Summoner
+練達のスカルド/Master Skald
+老樹林のトロール/Old-Growth Troll
+肉裂きの死神/Cleaving Reaper
+背信の王、ナーフィ/Narfi, Betrayer King
+背教の死神/Renegade Reaper
+臆病な大男/Craven Hulk
+自我の吸収/Absorb Identity
+航海の神、コシマ/Cosima, God of the Voyage
+若年の戦乙女/Youthful Valkyrie
+英雄たちの送り火/Pyre of Heroes
+茨外套の打撃者/Thornmantle Striker
+荒廃踏みの小道/Blightstep Pathway
+葬送の長艇/Funeral Longboat
+薄暮振るい/Duskwielder
+虹色の橋/The Prismatic Bridge
+蛇孔の小道/Slitherbore Pathway
+蛇皮のヴェール/Snakeskin Veil
+蜘蛛化/Arachnoform
+血空の主君、ヴェラゴス/Varragoth, Bloodsky Sire
+血空の狂戦士/Bloodsky Berserker
+血空の虐殺/The Bloodsky Massacre
+血統詐称者/Bloodline Pretender
+裏切りの手枷/Shackles of Treachery
+複製する指輪/Replicating Ring
+襲来の予測/Saw It Coming
+見張るもの、ヴェイガ/Vega, the Watcher
+語りの神、ビルギ/Birgi, God of Storytelling
+護衛の林歩き/Guardian Gladewalker
+豊潤の角杯、ハーンフェル/Harnfel, Horn of Bounty
+貪欲なリンドワーム/Ravenous Lindwurm
+軽蔑的な一撃/Disdainful Stroke
+輝かしい司令官/Resplendent Marshal
+輝く霜/Glittering Frost
+速度のルーン/Rune of Speed
+連門の小道/Hengegate Pathway
+金の突撃車/Gilded Assault Cart
+金への捕縛/Bound in Gold
+金脈のつるはし/Goldvein Pick
+鈎斧/Bearded Axe
+鉄の評決/Iron Verdict
+鍛冶場主、コル/Koll, the Forgemaster
+闇孔の小道/Darkbore Pathway
+隆盛するスピリット/Ascendant Spirit
+雪上の血痕/Blood on the Snow
+雪原の陥没孔/Snowfield Sinkhole
+雪崩呼び/Avalanche Caller
+霊体の鋼/Spectral Steel
+霜と火の戦い/Battle of Frost and Fire
+霜のモーリット/Moritte of the Frost
+霜の占い師/Frost Augur
+霜の祝福/Blessing of Frost
+霜噛み/Frost Bite
+霜峰のイエティ/Frostpeak Yeti
+霧氷杖、カルドリング/Kaldring, the Rimestaff
+霧氷林の滝/Rimewood Falls
+霧門の小道/Mistgate Pathway
+霰嵐の戦乙女/Hailstorm Valkyrie
+領界からの旅立ち/Depart the Realm
+領界の剣/Sword of the Realms
+領界喰らい、サルーフ/Sarulf, Realm Eater
+領界渡り/Realmwalker
+領界船/The Omenkeel
+領界路の開放/Open the Omenpaths
+頭蓋の奇襲/Skull Raid
+風化したルーン石/Weathered Runestone
+飛行のルーン/Rune of Flight
+首折りの狂戦士/Breakneck Berserker
+騙し屋の崩落/Fall of the Impostor
+高地の森/Highland Forest
+高山の草地/Alpine Meadow
+鴉の翼/Raven Wings
+鴉の警告/The Raven's Warning
+鴉変化/Ravenform
+黄金口の勇者/Goldmaw Champion
+黄金架のドラゴン/Goldspan Dragon
+龍族の狂戦士/Dragonkin Berserker
