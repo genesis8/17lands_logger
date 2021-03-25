@@ -97,9 +97,51 @@ con = a_rules2['consequents'].values
 con = [tuple(x)[0] for x in con]
 
 lift = a_rules2['lift'].values
-lift = [x*10 for x in lift]
+lift = [x for x in lift]
 
 # 上をExcelにコピペしてアドインのGIGRAPHで描画するといい感じ
+
+###### vis.js用のデータを作成 ######
+
+linklist = [ant,con,lift]
+linklist = list(zip(*linklist))
+
+node_id_dict = defaultdict(lambda: -1)
+new_node_id = 1
+node_list = []
+edge_list = []
+
+for link in linklist:
+    (word1,word2,w) = link
+    
+    if w <= 3.000:
+        continue
+        
+    # ノードが新出だったら新規登録
+    w1_node_id = node_id_dict[word1]
+    if w1_node_id == -1:
+        node_id_dict[word1] = new_node_id
+        new_node_id = new_node_id + 1
+        w1_node_id = node_id_dict[word1]
+    
+    w2_node_id = node_id_dict[word2]
+    if w2_node_id == -1:
+        node_id_dict[word2] = new_node_id
+        new_node_id = new_node_id + 1
+        w2_node_id = node_id_dict[word2]
+    
+    # エッジのjson要素をstringで作成
+    edge_str = "{ from:" + str(w1_node_id) + ", to: " + str(w2_node_id) + ",value: " + str(w) + " },"
+    edge_list.append(edge_str)
+
+
+node_id_dict_swap = {v:k for k, v in node_id_dict.items()}
+for key in node_id_dict_swap.keys():
+        node_str = "{ id:" + str(key) + ", value: 5, label : \"" + node_id_dict_swap[key] + "\" },"
+        node_list.append(node_str)
+#lift = [x*10 for x in lift]
+
+# 上のnode_listとedge_listをvis.jsで使用する
 
 '''
 ###### グラフ描画(失敗) ######
